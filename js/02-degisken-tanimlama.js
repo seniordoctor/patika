@@ -35,7 +35,7 @@ fullName += "ve Yeni Bilgi Eklendi."
 console.log(fullName)
 
 
- // const ile boş tanımlamaya çalışmak:
+// const ile boş tanımlamaya çalışmak:
 // const serverPassword; // sadece değişken tanımlandı ama içi boş? --> hata verdi
 
  // const ile değişken tanımlamak
