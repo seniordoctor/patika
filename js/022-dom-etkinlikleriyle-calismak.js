@@ -12,4 +12,3 @@ greeting.addEventListener("mouseover", domClick)            // --> uzerine gelin
     // console.log(this.innerHTML = "tiklandigi icin bilgi degistirildi!")
     // console.log(this.style.color = "red")
  }
-

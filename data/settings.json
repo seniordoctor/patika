@@ -1,0 +1,8 @@
+{
+    "userName": "Recep",
+    "password": 1234,
+    "serverIP": "172.0.0.1",
+    "serverName": "recep.com",
+    "isAuth": true,
+    "IDs": [1, 2 , 3, 4, 5]
+}
